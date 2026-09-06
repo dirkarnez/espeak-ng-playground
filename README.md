@@ -4,5 +4,6 @@ espeak-ng-playground
 
 [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
 
-### CLI
-- https://github.com/espeak-ng/espeak-ng/blob/master/src/espeak-ng.1.ronn
+### 
+- [CLI Options](https://github.com/espeak-ng/espeak-ng/blob/master/src/espeak-ng.1.ronn)
+- [Supported languages](https://github.com/espeak-ng/espeak-ng/blob/master/docs/languages.md)
