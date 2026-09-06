@@ -1,0 +1,1 @@
+espeak-ng -v yue "你好" -w "output.wav"
